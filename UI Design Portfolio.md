@@ -16,4 +16,6 @@ The AI Flower App blends technology with nature, offering an elegant layout feat
 4. Flyway (Travel App)
 Flyway is a travel app that combines AI-driven recommendations with an intuitive design. It helps users discover tailored destinations and activities based on their preferences, along with community insights for shared experiences. Flyway serves as a one-stop solution for planning and booking travel, making adventures easy to embark on.
 
-
+View Projects:
+Explore the live versions of my projects to see my design work in action:
+AI Flower App: https://figmashort.link/cnXdiN
