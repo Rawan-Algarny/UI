@@ -4,46 +4,16 @@ This repository showcases my UI design work across various projects, focusing on
 The included projects demonstrate my skills in creating visually appealing and user-friendly interfaces for different applications.
 
 Projects
-1. Travel App
-Description: A user-friendly app designed for travelers to explore destinations, book flights, and manage itineraries.
-Key Features:
-Destination exploration with detailed information.
-Flight booking and itinerary management.
-User-friendly navigation and search functionality.
-Tools Used: Figma
-2. Coffee Shop E-Commerce
-Description: An online platform for a coffee shop that allows users to browse and purchase various coffee blends and accessories.
-Key Features:
-Product catalog with high-quality images.
-Shopping cart and checkout functionality.
-User reviews and ratings.
-Tools Used: Figma
-3. Food Delivery App
-Description: A food delivery service app that connects users with local restaurants for convenient ordering.
-Key Features:
-Menu browsing with customizable orders.
-Real-time order tracking.
-User profiles and order history.
-Tools Used: Figma
-4. Flower Bouquets Delivery E-Commerce
-Description: An e-commerce platform for ordering and delivering flower bouquets for various occasions.
-Key Features:
-Beautifully designed floral arrangements.
-Occasion-based recommendations.
-Secure payment processing and delivery tracking.
-Tools Used: Figma
-5. Additional Interfaces
-Description: Various other UI designs that demonstrate my versatility and creativity.
-Examples: [Briefly list any other apps or interfaces you have worked on]
-Portfolio Highlights
-User-Centric Design: Emphasizes usability and engaging user experiences.
-Responsive Layouts: Designed for compatibility across devices and screen sizes.
-Visual Design: Utilizes cohesive color schemes and typography for a polished look.
-View the Projects
+1. Caffeine Haven (Coffee Shop E-Commerce)
+Caffeine Haven is an online platform that brings the charm of a coffee shop to users’ fingertips. With a warm color palette of rich browns, soft beiges, and subtle greys, the app creates a cozy atmosphere. Users can browse a variety of coffee blends and pastries, featuring clean sans-serif typography for readability and elegant serif fonts for sophistication.
 
-You can view the live versions of these projects here:
+2. ToYou (Food Delivery App)
+ToYou is a fast and efficient food delivery app based in Saudi Arabia. It connects users with a wide range of restaurants, offering an intuitive interface for quick navigation. Users can customize orders, track deliveries in real-time, and enjoy special promotions, making it easy to satisfy cravings at home.
 
-Travel App Figma
-Coffee Shop E-Commerce Figma
-Food Delivery App Figma
-Flower Bouquets Delivery E-Commerce Figma
+3. AI Flower App (Flower Bouquets Delivery E-Commerce)
+The AI Flower App blends technology with nature, offering an elegant layout featuring vibrant floral images. Users can explore various arrangements for any occasion, enhanced by a color palette of purple, blue, and pink. The app provides personalized recommendations and secure payment options for a joyful flower-buying experience.
+
+4. Flyway (Travel App)
+Flyway is a travel app that combines AI-driven recommendations with an intuitive design. It helps users discover tailored destinations and activities based on their preferences, along with community insights for shared experiences. Flyway serves as a one-stop solution for planning and booking travel, making adventures easy to embark on.
+
+
