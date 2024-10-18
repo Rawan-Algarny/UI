@@ -18,5 +18,7 @@ Flyway is a travel app that combines AI-driven recommendations with an intuitive
 
 ### View Projects:
 Explore the live versions of my projects to see my design work in action:
+
 AI Flower App:
+
 https://figmashort.link/cnXdiN
