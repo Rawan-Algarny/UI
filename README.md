@@ -23,8 +23,8 @@ Explore the live versions of my projects to see my design work in action:
 #### 💐AI Flower App: https://figmashort.link/cnXdiN
 #### ✈️Flyway App: https://figmashort.link/25nwwh
 
-#### Some other work: https://figmashort.link/RWrWwk
+#### ✨Some other work: https://figmashort.link/RWrWwk
 #### 🐻Child Tag App: https://figmashort.link/meyMwM
-#### 🌍LilTechPlanet Web:https://liltechplanet.github.io/index.html
+##### 🌍LilTechPlanet Web:https://liltechplanet.github.io/index.html
 
 
