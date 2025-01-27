@@ -38,4 +38,4 @@ Explore the live versions of my projects to see my design work in action:
 ## 📫 Contact Information
 Feel free to reach out for collaborations or inquiries:
 - Email: rawanalgarny21@gmail.com
-- Linkedin: https://shorturl.at/pX8wj
+- Linkedin: https://www.linkedin.com/in/rawan-algarny-1869b6315/
