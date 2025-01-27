@@ -22,7 +22,6 @@ This repository showcases my UI design work across various projects, focusing on
 
 ## 🛠️ Technologies Used
 - Figma
-- Adobe XD
 - HTML/CSS
 - JavaScript
 
