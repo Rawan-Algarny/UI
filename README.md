@@ -1,11 +1,13 @@
 # 🌟Description
 This repository showcases my UI design work across various projects, focusing on user experience and interface design. The included projects demonstrate my skills in creating visually appealing and user-friendly interfaces for different applications.
 
+
 ## Table of Contents
-- [My Projects](#my-projects)
-- [Technologies Used](#technologies-used)
-- [View Projects](#view-projects)
-- [Contact Information](#contact-information)
+- [My Projects](#-my-projects)
+- [Technologies Used](#-technologies-used)
+- [View Projects](#-view-projects)
+- [Contact Information](#-contact-information)
+
 
 ## 💻 My Projects
 1. ☕Caffeine Haven (Coffee Shop E-Commerce)
