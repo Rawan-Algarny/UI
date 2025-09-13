@@ -4,7 +4,7 @@ This repository showcases my UI design work across various projects, focusing on
 
 ## Table of Contents
 - [My Projects](#-my-projects)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#technologies-used)
 - [View Projects](#-view-projects)
 - [Contact Information](#-contact-information)
 
